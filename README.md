@@ -41,13 +41,13 @@ streamlit run app.py
 
 ## Screenshots
 
-![Current Digital Twin Dashboard]<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/7f681eb4-3292-46e4-b2f9-36e23c65673d" />
+Current Digital Twin Dashboard <img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/7f681eb4-3292-46e4-b2f9-36e23c65673d" />
 
-![Organ-Level Impact]<img width="1617" height="332" alt="image" src="https://github.com/user-attachments/assets/a1b0716f-eb66-4d7a-966d-4313b373c02e" />
+Organ-Level Impact <img width="1617" height="332" alt="image" src="https://github.com/user-attachments/assets/a1b0716f-eb66-4d7a-966d-4313b373c02e" />
 
-![Digital Twin Interpretation]<img width="1619" height="281" alt="image" src="https://github.com/user-attachments/assets/2db557b0-c6c1-46ad-b083-31d7edd452ac" />
+Digital Twin Interpretation <img width="1619" height="281" alt="image" src="https://github.com/user-attachments/assets/2db557b0-c6c1-46ad-b083-31d7edd452ac" />
 
-![Future Trajectory Graph]<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/464d1874-48b9-420c-bf67-8631a354e4e3" />
+Future Trajectory Graph <img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/464d1874-48b9-420c-bf67-8631a354e4e3" />
 
 ## Team
 
